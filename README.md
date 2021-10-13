@@ -14,4 +14,4 @@
 - [ ] Add one image
 - [ ] Change body background-color to gradient
 - [ ] Add your own country code on the phone list
-- [ ] Add action to submit button
+- [ ] Redesign index.html
