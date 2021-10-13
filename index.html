@@ -30,7 +30,10 @@
         </select>
         <input type="number" id="phone" name="phone"><br>
         <br>
-        <button type="button" value="Submit">Submit</button>
+        <button type="button" value="Submit" onClick="(function(){
+            alert('form submitted');
+            return false;
+        })();return false;">Submit</button>
     </form> 
 </body>
 </html>
